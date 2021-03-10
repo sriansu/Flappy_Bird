@@ -4,7 +4,7 @@ The famous and addicting flappy bird made with python.
 ## How to Play
 Use the space bar to flap.
 
-## Requirements - pygame
+## Requirements - pygame (python library)
 
 ```pip install pygame```
 
